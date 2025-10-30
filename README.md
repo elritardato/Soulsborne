@@ -20,7 +20,7 @@
 
 To install **Soulsborne** on `HyDE Project`, run the following command:
 ```sh
-hydectl theme import --name "Oregairu" --url https://github.com/elritardato/Soulsborne
+hydectl theme import --name "Soulsborne" --url https://github.com/elritardato/Soulsborne
 ```
 
 Alternatively, you can import the theme by running:

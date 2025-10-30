@@ -5,7 +5,7 @@ $ICON_THEME = Tela-circle-grey
 $CURSOR_THEME = Sweet-cursors
 $CURSOR_SIZE = 22
 $COLOR_SCHEME = prefer-dark
-$FONT = Inter
+$FONT = Noto_Sans
 
 exec = gsettings set org.gnome.desktop.interface icon-theme $ICON_THEME
 exec = gsettings set org.gnome.desktop.interface gtk-theme $GTK_THEME
